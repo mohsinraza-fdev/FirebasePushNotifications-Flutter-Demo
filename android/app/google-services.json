@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54591047793",
+    "project_id": "fastfood-menu-app",
+    "storage_bucket": "fastfood-menu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54591047793:android:6be19eabf9fc454ac3b3d0",
+        "android_client_info": {
+          "package_name": "com.fdev.mohsinraza.fastfoodmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54591047793-a3k0ltomp7rbh24fuo1rsahfbi6lq5dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHZpxh8SKNMdGeghYBBtkp78lXSrSkiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54591047793-a3k0ltomp7rbh24fuo1rsahfbi6lq5dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
